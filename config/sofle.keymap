@@ -75,7 +75,7 @@
         };
 
         left_bracket {
-            bindings = <&kp N5>;
+            bindings = <&kp RA(N5)>;
             key-positions = <28 29>;
         };
 
